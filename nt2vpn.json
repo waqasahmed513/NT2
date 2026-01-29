@@ -15,9 +15,9 @@
     }
     {
         "device_id": "c3dab1baefdd9a7a",
-        "username": "123",
-        "password": "1234",
+        "username": "waqas123",
+        "password": "waqasa123",
         "expirydate": "31-12-2027",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
